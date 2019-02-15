@@ -15,7 +15,7 @@ The 2 Rendering effects are:
 There is also one more modification in MeshBuilderExample.
 1) Adding the noise effect.
 2) Changing the ground color.
-3) Removing the shoadow.
+3) Removing the shadow.
 
 It is developed in Escripts. 
 
